@@ -1,0 +1,13 @@
+.css-delete-button {
+    background-color: black;
+    color: red;
+    border-radius: 1rem;
+    padding: 0.75rem 1.5rem;
+    font-weight: bold;
+}
+
+.css-delete-button:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
